@@ -14,11 +14,11 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 - Esquematicos `: circuitos en PDF, CIRKIT DESIGNER IDE
 - Pruebas`: resultados,, fotos del circuito, videos
 - Recursos`: 
-             - Sensor Ultrasonico:       https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html
+             * Sensor Ultrasonico:       https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html
              - Modulo Motor Vibrador:    https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/
              - Buzzer Activo:            https://www.electromania.pe/producto/buzzer-activo-de-5v/ 
              - Arduino Nano:             https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html
--`/README.md`: este documento
+- README.md`: este documento
 
 ##📅Avances semanales
 | Semana |       Actividad realizada                       | Responsable |
