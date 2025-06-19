@@ -1,7 +1,13 @@
 # Proyecto-baston-inteligente-para-personas-con-discapacidad-visual
 
 ## 🎯Objetivo
-Diseñar e implementar un prototipo de Bastón electrónico que facilite la movilidad segura y autónoma de personas con discapacidad visual, que detecten obstáculos y alerten al usuario en tiempo real.
+Diseñar e implementar un prototipo funcional de bastón electrónico inteligente, enfocado en mejorar la movilidad, seguridad y autonomía de personas con discapacidad visual total o parcial. Este dispositivo integrará tecnologías de detección, señalización y respuesta inmediata, permitiendo identificar obstáculos en el entorno del usuario a través de sensores ultrasónicos u otros métodos de proximidad.
+
+El sistema será capaz de detectar obstáculos a distintas distancias (cortas, medias o largas) y generar alertas en tiempo real mediante señales hápticas (vibración), acústicas (buzzer) o una combinación de ambas, dependiendo del nivel de riesgo o proximidad del objeto. Estas alertas permiten al usuario reaccionar con anticipación, evitando accidentes o colisiones durante sus desplazamientos.
+
+El bastón estará diseñado con una arquitectura modular basada en tecnología de bajo consumo energético y microcontroladores programables (como Arduino Nano), permitiendo su portabilidad, bajo costo y adaptabilidad. También se contempla su posible evolución hacia versiones mejoradas con conectividad inalámbrica, asistencia por voz o integración con smartphones.
+
+Con este proyecto se busca no solo crear una herramienta útil, sino también concientizar sobre la inclusión tecnológica para personas con capacidades diferentes, aplicando conocimientos de electrónica, programación y diseño centrado en el usuario.
 
 ## 👥Integrantes
 - **Hewing Odair Dimas CH**  
