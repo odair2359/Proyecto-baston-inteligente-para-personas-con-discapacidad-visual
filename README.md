@@ -9,11 +9,11 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 - Hewing Odair Dimas CH: [Redacción / Ensamblado / etc.]
 
 ##📁Estructura del proyecto
--`/docs `: informes, presentación, cronograma
--`/codigo `: programas Arduino 
--`/esquematicos `: circuitos en PDF, CIRKIT DESIGNER IDE
--`/pruebas`: resultados,, fotos del circuito, videos
--`/recursos`: 
+- Docs `: informes, presentación, cronograma
+- Codigo `: programas Arduino 
+- Esquematicos `: circuitos en PDF, CIRKIT DESIGNER IDE
+- Pruebas`: resultados,, fotos del circuito, videos
+- Recursos`: 
              - Sensor Ultrasonico:       https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html
              - Modulo Motor Vibrador:    https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/
              - Buzzer Activo:            https://www.electromania.pe/producto/buzzer-activo-de-5v/ 
