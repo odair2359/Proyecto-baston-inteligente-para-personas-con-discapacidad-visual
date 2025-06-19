@@ -1,6 +1,6 @@
 # Proyecto-baston-inteligente-para-personas-con-discapacidad-visual
 
-##🎯Objetivo
+## 🎯Objetivo
 Diseñar e implementar un prototipo de Bastón electrónico que facilite la movilidad segura y autónoma de personas con discapacidad visual, que detecten obstáculos y alerten al usuario en tiempo real.
 
 ## 👥Integrantes
@@ -43,9 +43,9 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 | 17     | Informe final y exposición                              | Hewing Odair Dimas CH   |
 
 ## 🔗Enlaces relevantes
--
+
 -[Carpeta de Drive][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
--
+
 -[Circuito en Cirkit Designer IDE ][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
--
+
 -[Presentación en Slides ](
