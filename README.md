@@ -3,19 +3,19 @@
 ##🎯Objetivo
 Diseñar e implementar un prototipo de Bastón electrónico que facilite la movilidad segura y autónoma de personas con discapacidad visual, que detecten obstáculos y alerten al usuario en tiempo real.
 
-##👥Integrantes
+## 👥Integrantes
 - **Hewing Odair Dimas CH**  
   - **Roles**:  
     - Hardware / Software / Documentación  
     - Diseño / Pruebas / Simulación  
     - Redacción / Ensamblado / Otros
 
-##📁Estructura del proyecto
-- Docs : informes, presentación, cronograma
-- Codigo : programas Arduino 
-- Esquematicos : circuitos en PDF, CIRKIT DESIGNER IDE
-- Pruebas: resultados,, fotos del circuito, videos
-- README.md: este documento
+## 📁Estructura del proyecto
+- **Docs** : informes, presentación, cronograma
+- **Codigo** : programas Arduino 
+- **Esquematicos** : circuitos en PDF, CIRKIT DESIGNER IDE
+- **Pruebas**: resultados,, fotos del circuito, videos
+- **README.md**: este documento
   
 ## 🔧 Recursos
 - [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html)  
@@ -24,7 +24,7 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
 - README.md`: este documento
 
-##📅Avances semanales
+## 📅Avances semanales
 | Semana | Actividad Realizada                                     | Responsable             |
 |--------|----------------------------------------------------------|-------------------------|
 | 1      | Solución a la problemática                              | Hewing Odair Dimas CH   |
@@ -42,7 +42,7 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 | 16     | Pruebas finales                                          | Hewing Odair Dimas CH   |
 | 17     | Informe final y exposición                              | Hewing Odair Dimas CH   |
 
-##🔗Enlaces relevantes
+## 🔗Enlaces relevantes
 -
 -[Carpeta de Drive][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
 -
