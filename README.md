@@ -21,27 +21,27 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 -`/README.md`: este documento
 
 ##📅Avances semanales
-| Semana |       Actividad realizada                      | Responsable |
-|--------|------------------------------------------------|-------------|
-| 1 | Solucion a la problematica                          | Hewing Odair Dimas CH |
-| 2 | Plan o Cronograma de trabajo                        | Hewing Odair Dimas CH |
-| 3 | Marco Teorico - Macro Conceptual                    | Hewing Odair Dimas CH |
-| 4 | Objetivos Generañes y Especificos del Proyecto      | Hewing Odair Dimas CH |
-| 5 | Analisis General del Proyecto                       | Hewing Odair Dimas CH |
-| 6 | Analisis General del Proyecto                       | Hewing Odair Dimas CH |
-| 7 | Analisis General del Proyecto                       | Hewing Odair Dimas CH |
-| 8 | Definición de las etapas del proyecto
-| 9 | Definición de las etapas del proyecto
-| 10 | Implementación del hardware electrónico.
-       - Parte 1. Simulación inicial                      | Hewing Odair Dimas CH |
-| 11 | Implementación del hardware. Electrónico.
+| Semana |       Actividad realizada                       | Responsable |
+|--------|-------------------------------------------------|-------------|
+| 1 | Solucion a la problematica.                          | Hewing Odair Dimas CH |
+| 2 | Plan o Cronograma de trabajo.                        | Hewing Odair Dimas CH |
+| 3 | Marco Teorico - Macro Conceptual.                    | Hewing Odair Dimas CH |
+| 4 | Objetivos Generañes y Especificos del Proyecto.      | Hewing Odair Dimas CH |
+| 5 | Analisis General del Proyecto.                       | Hewing Odair Dimas CH |
+| 6 | Analisis General del Proyecto.                       | Hewing Odair Dimas CH |
+| 7 | Analisis General del Proyecto.                       | Hewing Odair Dimas CH |
+| 8 | Definición de las etapas del proyecto.               | Hewing Odair Dimas CH |
+| 9 | Definición de las etapas del proyecto.               | Hewing Odair Dimas CH |
+| 10 | Implementación del hardware electrónico.            | Hewing Odair Dimas CH |
+       - Parte 1. Simulación inicial                     
+| 11 | Implementación del hardware. Electrónico.           | Hewing Odair Dimas CH |
        - Parte 2. Uniendo etapas:
        - simulación intermedia.
-       - Presentación del Trabajo Grupal (Avance al 50%). | Hewing Odair Dimas CH |
+       - Presentación del Trabajo Grupal (Avance al 50%). 
 | 12 | Diseño del hardware físico electrónico.
-Parte 3. Completando las etapas.                          | Hewing Odair Dimas CH |
-| 13 | Simulación de todas las etapas del proyecto.       | Hewing Odair Dimas CH |
-| 14 | Construcción del prototipo                         | Hewing Odair Dimas CH |
+Parte 3. Completando las etapas.                           | Hewing Odair Dimas CH |
+| 13 | Simulación de todas las etapas del proyecto.        | Hewing Odair Dimas CH |
+| 14 | Construcción del prototipo                          | Hewing Odair Dimas CH |
 | 15 | Implementación del prototipo con hardware.
 | 16 |Pruebas finales con software y hardware del diseño.
 | 17 |Presentación del informe final y exposición del proyecto.
