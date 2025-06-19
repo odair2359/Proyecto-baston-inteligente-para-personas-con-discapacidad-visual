@@ -4,9 +4,9 @@
 Diseñar e implementar un prototipo de Bastón electrónico que facilite la movilidad segura y autónoma de personas con discapacidad visual, que detecten obstáculos y alerten al usuario en tiempo real.
 
 ##👥Integrantes
--Hewing Odair Dimas CH. Rol: [Hardware / Software / Documentación]
--Hewing Odair Dimas CH: [Diseño / Pruebas / Simulación]
--Hewing Odair Dimas CH: [Redacción / Ensamblado / etc.]
+- Hewing Odair Dimas CH. Rol: [Hardware / Software / Documentación]
+- Hewing Odair Dimas CH: [Diseño / Pruebas / Simulación]
+- Hewing Odair Dimas CH: [Redacción / Ensamblado / etc.]
 
 ##📁Estructura del proyecto
 -`/docs `: informes, presentación, cronograma
