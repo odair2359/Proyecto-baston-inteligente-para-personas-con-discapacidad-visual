@@ -4,16 +4,20 @@
 Diseñar e implementar un prototipo de Bastón electrónico que facilite la movilidad segura y autónoma de personas con discapacidad visual, que detecten obstáculos y alerten al usuario en tiempo real.
 
 ##👥Integrantes
-- Hewing Odair Dimas CH. Rol: [Hardware / Software / Documentación]
-- Hewing Odair Dimas CH: [Diseño / Pruebas / Simulación]
-- Hewing Odair Dimas CH: [Redacción / Ensamblado / etc.]
+- **Hewing Odair Dimas CH**  
+  - **Roles**:  
+    - Hardware / Software / Documentación  
+    - Diseño / Pruebas / Simulación  
+    - Redacción / Ensamblado / Otros
 
 ##📁Estructura del proyecto
-- Docs `: informes, presentación, cronograma
-- Codigo `: programas Arduino 
-- Esquematicos `: circuitos en PDF, CIRKIT DESIGNER IDE
-- Pruebas`: resultados,, fotos del circuito, videos
-- Recursos`: 
+- Docs : informes, presentación, cronograma
+- Codigo : programas Arduino 
+- Esquematicos : circuitos en PDF, CIRKIT DESIGNER IDE
+- Pruebas: resultados,, fotos del circuito, videos
+- README.md: este documento
+  
+## 🔧 Recursos
 - [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html)  
 - [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)  
 - [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
