@@ -22,7 +22,7 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 - [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)  
 - [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
 - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
-- README.md`: este documento
+
 
 ## 📅Avances semanales
 | Semana | Actividad Realizada                                     | Responsable             |
@@ -44,8 +44,8 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 
 ## 🔗Enlaces relevantes
 
--[Carpeta de Drive][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
+-[**Carpeta de Drive**][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
 
--[Circuito en Cirkit Designer IDE ][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
+-[**Circuito en Cirkit Designer IDE **][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
 
--[Presentación en Slides ](
+-[**Presentación en Slides **](
