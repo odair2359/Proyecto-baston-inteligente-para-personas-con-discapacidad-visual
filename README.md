@@ -9,7 +9,7 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 -Hewing Odair Dimas CH: [Redacción / Ensamblado / etc.]
 
 ##📁Estructura del proyecto
-# docs `: informes, presentación, cronograma
+-`/docs `: informes, presentación, cronograma
 -`/codigo `: programas Arduino 
 -`/esquematicos `: circuitos en PDF, CIRKIT DESIGNER IDE
 -`/pruebas`: resultados,, fotos del circuito, videos
