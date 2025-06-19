@@ -44,8 +44,8 @@ Diseñar e implementar un prototipo de Bastón electrónico que facilite la movi
 
 ## 🔗Enlaces relevantes
 
--[**Carpeta de Drive**][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
+- [**Carpeta de Drive**][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
 
--[**Circuito en Cirkit Designer IDE **][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
+- [**Circuito en Cirkit Designer IDE**][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
 
--[**Presentación en Slides **](
+- [**Presentación en Slides**](
