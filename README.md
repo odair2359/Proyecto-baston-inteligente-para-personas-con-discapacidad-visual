@@ -48,7 +48,7 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 ## 🧰 Paso 1: Ensamblado del circuito
 
 1. Conecta el sensor HC-SR04 a los pines D9 (Trig) y D8 (Echo) del Arduino.
-2. Conecta el buzzer al pin D6 (pasando por una resistencia de 220Ω).
+2. Conecta el buzzer al pin D6.
 3. Conecta el motor vibrador al pin D5, usando un transistor NPN para control si es necesario.
 4. Usa la protoboard para organizar las conexiones.
 5. Alimenta el Arduino Nano desde un Power Bank por el puerto USB.
