@@ -27,7 +27,7 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 
 | Componente              | Descripción                        |
 |-------------------------|------------------------------------|
-| Arduino Nano            | Microcontrolador principal         | - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
+| - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)            | Microcontrolador principal         |
 | Sensor Ultrasónico HC-SR04 | Medición de distancia con precisión | - [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html)  
 | Buzzer Pasivo           | Alerta sonora                      | - [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
 | Motor de Vibración      | Alerta táctil                      | - [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)  
