@@ -44,6 +44,28 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
    - **Menos de 10 cm:** vibración + sonido continuo
 3. Si no hay obstáculos cercanos, el sistema permanece en reposo.
 
+## 📘 Guía de Instalación
+
+## 🧰 Paso 1: Ensamblado del circuito
+
+1. Conecta el sensor HC-SR04 a los pines D9 (Trig) y D8 (Echo) del Arduino.
+2. Conecta el buzzer al pin D6 (pasando por una resistencia de 220Ω).
+3. Conecta el motor vibrador al pin D5, usando un transistor NPN para control si es necesario.
+4. Usa la protoboard para organizar las conexiones.
+5. Alimenta el Arduino Nano desde un Power Bank por el puerto USB.
+
+## 💻 Paso 2: Subida del código
+
+1. Abre el archivo `main.ino` en el IDE de Arduino.
+2. Selecciona placa: `Arduino Nano`, procesador: `ATmega328P (Old Bootloader)`.
+3. Conecta el cable USB y selecciona el puerto COM correcto.
+4. Carga el código.
+
+## ✅ Paso 3: Pruebas
+
+1. Acerca un objeto al sensor para comprobar que el sistema reacciona.
+2. Observa la vibración y sonido según la distancia.
+
   
 ## 📅Avances semanales
 | Semana | Actividad Realizada                                     | Responsable             |
