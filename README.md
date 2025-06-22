@@ -29,7 +29,28 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 - [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
 - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
 
+## 🛠️ Componentes Utilizados
 
+| Componente              | Descripción                        |
+|-------------------------|------------------------------------|
+| Arduino Nano            | Microcontrolador principal         |
+| Sensor Ultrasónico HC-SR04 | Medición de distancia con precisión |
+| Buzzer Pasivo           | Alerta sonora                      |
+| Motor de Vibración      | Alerta táctil                      |
+| Protoboard o PCB        | Para conexiones                    |
+| Cableado / Jumpers      | Conexiones físicas                 |
+| Power Bank o batería LiPo| Fuente de alimentación portátil   |
+
+## ⚙️ Funcionamiento
+
+1. El sensor ultrasónico mide continuamente la distancia al obstáculo más cercano.
+2. Si la distancia es menor a un umbral definido (por ejemplo, 100 cm), se activa una señal:
+   - **Menos de 25 cm:** vibración leve
+   - **Menos de 15 cm:** vibración + sonido intermitente
+   - **Menos de 10 cm:** vibración + sonido continuo
+3. Si no hay obstáculos cercanos, el sistema permanece en reposo.
+
+  
 ## 📅Avances semanales
 | Semana | Actividad Realizada                                     | Responsable             |
 |--------|----------------------------------------------------------|-------------------------|
