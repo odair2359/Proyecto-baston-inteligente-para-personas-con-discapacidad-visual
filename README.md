@@ -65,6 +65,15 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 1. Acerca un objeto al sensor para comprobar que el sistema reacciona.
 2. Observa la vibración y sonido según la distancia.
 
+## ⚠️ Recomendaciones
+1. Asegúrate de que las conexiones sean firmes (usa soldadura o cinta si es necesario).
+2. Monta el sistema en una estructura estable y protegida contra humedad o golpes.
+3.Usa una caja impresa 3D o carcasa si planeas uso exterior frecuente.
+
+🧪 Paso 4: Pruebas de Campo
+1. Camina en una zona abierta con obstáculos de diferentes alturas.
+2. Ajusta los umbrales en el código si detectas falsos positivos o falta de sensibilidad.
+3. Prueba con diferentes superficies (paredes, personas, árboles) para validar la respuesta.
   
 ## 📅Avances semanales
 | Semana | Actividad Realizada                                     | Responsable             |
