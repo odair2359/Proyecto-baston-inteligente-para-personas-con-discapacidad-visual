@@ -31,9 +31,9 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 | [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximida9d/10-sensor-ultrasonido-hc-sr04.html)  | Medición de distancia con precisión |   
 | [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/ )          | Alerta sonora                      |  
 | [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)      | Alerta táctil                      |   
-| Protoboard o PCB        | Para conexiones                    |
-| Cableado / Jumpers      | Conexiones físicas                 |
-| Power Bank o batería LiPo| Fuente de alimentación portátil   |
+| [Protoboard o PCB](https://www.teslaelectronic.com.pe/producto/protoboard-830-puntos/?srsltid=AfmBOorUNzrG_SfqL80-2YSSKAOINMZ1qC-t08mY8mVDi2wpZLwlb3Xg)      | Para conexiones                    |
+| [Cableado / Jumpers](https://hifisac.com/shop/sch4015phmc-cable-jumper-dupont-macho-hembra-de-colores-largo-15cm-x-40-hilos-de-cobre-aluminio-113#attr=)     | Conexiones físicas                 |
+| [Power Bank o batería](https://hifisac.com/shop/il-406080-406080-bateria-de-3-7-v-3000mah-ion-litio-recargable-overclick-60x80mm-3181?page=2&category=356#attr=)| Fuente de alimentación portátil   |
 
 ## ⚙️ Funcionamiento
 
