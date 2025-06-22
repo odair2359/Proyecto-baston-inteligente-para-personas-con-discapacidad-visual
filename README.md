@@ -45,7 +45,6 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 3. Si no hay obstáculos cercanos, el sistema permanece en reposo.
 
 ## 📘 Guía de Instalación
-
 ## 🧰 Paso 1: Ensamblado del circuito
 
 1. Conecta el sensor HC-SR04 a los pines D9 (Trig) y D8 (Echo) del Arduino.
