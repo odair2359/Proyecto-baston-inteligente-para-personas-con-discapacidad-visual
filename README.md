@@ -22,21 +22,15 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 - **Esquematicos** : circuitos en PDF, CIRKIT DESIGNER IDE
 - **Pruebas**: resultados,, fotos del circuito, videos
 - **README.md**: este documento
-  
-## 🔧 Recursos
-- [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html)  
-- [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)  
-- [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
-- [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
 
-## 🛠️ Componentes Utilizados
+## 🛠️ Recursos y Componentes Utilizados
 
 | Componente              | Descripción                        |
 |-------------------------|------------------------------------|
-| Arduino Nano            | Microcontrolador principal         |
-| Sensor Ultrasónico HC-SR04 | Medición de distancia con precisión |
-| Buzzer Pasivo           | Alerta sonora                      |
-| Motor de Vibración      | Alerta táctil                      |
+| Arduino Nano            | Microcontrolador principal         | - [Arduino Nano CH340G](https://naylampmechatronics.com/ardusystem-tarjetas/88-arduboard-nano-ch340g-mini-usb.html)
+| Sensor Ultrasónico HC-SR04 | Medición de distancia con precisión | - [Sensor ultrasónico HC-SR04](https://naylampmechatronics.com/sensores-proximidad/10-sensor-ultrasonido-hc-sr04.html)  
+| Buzzer Pasivo           | Alerta sonora                      | - [Buzzer activo de 5V](https://www.electromania.pe/producto/buzzer-activo-de-5v/)  
+| Motor de Vibración      | Alerta táctil                      | - [Módulo motor vibrador](https://mecatronica.saisac.pe/producto/modulo-motor-vibrador-pwm/)  
 | Protoboard o PCB        | Para conexiones                    |
 | Cableado / Jumpers      | Conexiones físicas                 |
 | Power Bank o batería LiPo| Fuente de alimentación portátil   |
