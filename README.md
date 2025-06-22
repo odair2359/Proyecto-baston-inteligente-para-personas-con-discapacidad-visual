@@ -68,7 +68,7 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 ## ⚠️ Recomendaciones
 1. Asegúrate de que las conexiones sean firmes (usa soldadura o cinta si es necesario).
 2. Monta el sistema en una estructura estable y protegida contra humedad o golpes.
-3.Usa una caja impresa 3D o carcasa si planeas uso exterior frecuente.
+3. Usa una caja impresa 3D o carcasa si planeas uso exterior frecuente.
 
 🧪 Paso 4: Pruebas de Campo
 1. Camina en una zona abierta con obstáculos de diferentes alturas.
