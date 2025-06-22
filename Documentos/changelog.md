@@ -5,7 +5,7 @@
 ---
 ## [v1.2]
 2025 04 07
-###📂 Cambios agregados
+### 📂 Cambios agregados
 - Revisión de los antecedentes y el estado del arte para el desarrollo del proyecto.
 ---
 ## [v1.3]
