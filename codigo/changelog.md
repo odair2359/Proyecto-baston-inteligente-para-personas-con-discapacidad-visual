@@ -18,26 +18,26 @@
 ### 🐞Correcciones
 - Corrección en el codigo para su nueva funcion.
 - Eliminación de led como indicador de proximidad.
-
+---
 ## [v1.3]
 2025 05 24
 ### 🔧Cambios agregados
 - Corrección en el codigo para su nueva funcion que regula la intensidad de vibracion  segun sea mas proximo el objeto.
 - Calibracion del motor con nivel de intesidad.
-
+---
 ## [v2.0]
 2025 05 30
 ### 🔧Cambios agregados
 - Corrección en el codigo para una mejor respuesta del sensor.
 - Montado en prototipo y pruebas realizadas para su funcionamiento.
-
+---
 ## [v2.1]
 2025 05 24
 ### 🔧Cambios agregados
 - Se agrego un segundo sesor de proximidad.
 - Corrección en el codigo para una mejor respuesta de los sensores.
 - Montado en prototipo y pruebas realizadas para su funcionamiento.
-
+---
 ## [v2.2]
 2025 06 01
 ### 🔧Cambios agregados
