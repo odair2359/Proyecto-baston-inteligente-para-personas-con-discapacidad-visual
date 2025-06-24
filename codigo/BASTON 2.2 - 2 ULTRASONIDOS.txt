@@ -1,0 +1,134 @@
+// Sensor 1: Cercano (25–45 cm)
+const int trigPin1 = 9;
+const int echoPin1 = 10;
+
+// Sensor 2: Largo alcance (120–130 cm)
+const int trigPin2 = 7;
+const int echoPin2 = 6;
+
+// Buzzer activo
+const int buzzerPin = 8;
+
+// Motor de vibración (PWM)
+const int motorPin = 5;
+
+// Umbrales sensor 1
+const int nivel1 = 25;
+const int nivel2 = 30;
+const int nivel3 = 35;
+const int nivel4 = 40;
+const int nivel5 = 45;
+
+bool sensor2Detectado = false;  // Estado de detección para sensor 2
+
+void setup() {
+  pinMode(trigPin1, OUTPUT);
+  pinMode(echoPin1, INPUT);
+  pinMode(trigPin2, OUTPUT);
+  pinMode(echoPin2, INPUT);
+  pinMode(buzzerPin, OUTPUT);
+  pinMode(motorPin, OUTPUT);
+  Serial.begin(9600);
+}
+
+long medirDistancia(int trigPin, int echoPin) {
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  long duracion = pulseIn(echoPin, HIGH, 25000);  // Timeout
+  return duracion * 0.034 / 2;
+}
+
+void loop() {
+  int distancia1 = medirDistancia(trigPin1, echoPin1);
+  int distancia2 = medirDistancia(trigPin2, echoPin2);
+
+  Serial.print("Sensor 1: ");
+  Serial.print(distancia1);
+  Serial.print(" cm | Sensor 2: ");
+  Serial.println(distancia2);
+
+  // ------------------------------------------------------
+  // Sensor 2: vibrar una vez por detección
+  // -----------------------------------------------------
+  if (distancia2 >= 120 && distancia2 <= 130) {
+    if (!sensor2Detectado) {
+      // Ejecutar las dos vibraciones solo una vez por detección
+      for (int i = 0; i < 2; i++) {
+        analogWrite(motorPin, 255);
+        delay(200);
+        analogWrite(motorPin, 0);
+        delay(200);
+      }
+      sensor2Detectado = true;
+    }
+  } else {
+    // Reiniciar la detección cuando el objeto desaparece del rango
+    sensor2Detectado = false;
+  }
+
+  // ------------------------------------------------------
+  // Sensor 1: activar vibración y buzzer por niveles
+  // -------------------------------------------------------
+  bool sensor1Activo = false;
+  int pwmMotor = 0;
+
+  if (distancia1 >= nivel1 && distancia1 <= nivel2) {
+    pwmMotor = 255;
+    sensor1Activo = true;
+  } else if (distancia1 <= nivel3) {
+    pwmMotor = 204;
+    sensor1Activo = true;
+  } else if (distancia1 <= nivel4) {
+    pwmMotor = 153;
+    sensor1Activo = true;
+  } else if (distancia1 <= nivel5) {
+    pwmMotor = 102;
+    sensor1Activo = true;
+  } else if (distancia1 > nivel5 && distancia1 <= 100) {
+    pwmMotor = 51;
+    sensor1Activo = true;
+  }
+// ---------------------------------------------------
+  // Activar motor si sensor 1 está activo
+// ---------------------------------------------------
+  analogWrite(motorPin, pwmMotor);
+
+  // Buzzer según distancia
+  if (sensor1Activo) {
+    if (distancia1 >= nivel1 && distancia1 <= nivel2) {
+      for (int i = 0; i < 5; i++) {
+        digitalWrite(buzzerPin, HIGH);
+        delay(50);
+        digitalWrite(buzzerPin, LOW);
+        delay(50);
+      }
+    } else if (distancia1 <= nivel3) {
+      for (int i = 0; i < 4; i++) {
+        digitalWrite(buzzerPin, HIGH);
+        delay(70);
+        digitalWrite(buzzerPin, LOW);
+        delay(70);
+      }
+    } else if (distancia1 <= nivel4) {
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(buzzerPin, HIGH);
+        delay(100);
+        digitalWrite(buzzerPin, LOW);
+        delay(100);
+      }
+    } else if (distancia1 <= nivel5) {
+      digitalWrite(buzzerPin, HIGH);
+      delay(100);
+      digitalWrite(buzzerPin, LOW);
+      delay(300);
+    }
+  } else {
+    digitalWrite(buzzerPin, LOW);
+  }
+
+  delay(100);  // Pequeña pausa antes del siguiente ciclo
+}
+
