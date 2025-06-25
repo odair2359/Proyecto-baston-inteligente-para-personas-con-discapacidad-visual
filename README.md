@@ -95,7 +95,7 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 
 ## 🔗Enlaces relevantes
 
-- [**Carpeta de Drive**][(https://drive.google.](https://docs.google.com/document/d/1cjNfdb2m2InOknDDoIa29piNUE2A3rkv/edit)
+- [**Carpeta de Drive**][(https://drive.google.](https://docs.google.com/document/d/19YAYZ8IZuRifpcunbupDoznqr31Y6-1o/edit)
 
 - [**Circuito en Cirkit Designer IDE**][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
 
