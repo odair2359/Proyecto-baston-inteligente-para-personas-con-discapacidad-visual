@@ -99,6 +99,6 @@ Con este proyecto se busca no solo crear una herramienta útil, sino también co
 
 - [**Circuito en Cirkit Designer IDE**][(https://easyeda.](https://app.cirkitdesigner.com/project/67272e73-9a4e-40c8-9393-b1d8ad5ef423)
 
-- [**Presentación en Slides**][(https://drive.google.](https://docs.google.com/presentation/d/1sXzTnTgZQWETXmpCuHFqTPqGexhuzV33/edit?usp=drive_web&ouid=116189080242814573393&rtpof=true)
+- [**Presentación en PPT**][(https://drive.google.](https://docs.google.com/presentation/d/1sXzTnTgZQWETXmpCuHFqTPqGexhuzV33/edit?usp=drive_web&ouid=116189080242814573393&rtpof=true)
   
 - [**Presentación en YouTube**][(https://YouTube.com.](https://youtube.com/shorts/tHSOtOXz0b4?feature=share)
