@@ -1,41 +1,27 @@
 ## 🧰 1. Instalación y Preparación
 Asegúrese de que la batería esté completamente cargada.
-
 Encienda el bastón mediante el interruptor.
-
 Un pitido breve y una vibración suave indicarán que está listo para usarse.
 
 ##📡 2. Funcionamiento
 Detección de obstáculos:
-
 Los sensores ultrasónicos detectan objetos cercanos hasta X metros.
-
 Si detectan algo a corta distancia, el módulo de vibración se activa.
-
 Si el obstáculo está muy cerca, también se activa el buzzer.
-
 Sistema de alertas:
-
 Vibración = obstáculo cercano
-
 Vibración + sonido = obstáculo muy cercano / alerta urgente
 
 ## 🧪 3. Pruebas y Recomendaciones
 Probar el bastón en un entorno abierto antes de usarlo en lugares públicos.
-
 Complementar su uso con otros apoyos (como el bastón blanco tradicional).
-
 No exponerlo directamente al agua o golpes en los sensores.
 
 ##🔋 4. Carga y Mantenimiento
 Carga: Conectar el cargador a la entrada micro-USB de la batería.
-
 Mantenimiento:
-
 Limpiar los sensores con un paño seco.
-
 Verificar el cableado interno periódicamente.
-
 Asegurar que la carcasa esté bien cerrada.
 
 ##❗ 5. Solución de Problemas
