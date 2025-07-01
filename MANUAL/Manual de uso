@@ -43,5 +43,5 @@ Problema	Posible causa	Solución
 No vibra ni suena	Batería descargada o conexión floja	Verificar conexiones y cargar batería
 Vibra sin objeto cerca	Sensor desalineado o defectuoso	Ajustar ángulo o revisar código
 Zumbido sin razón aparente	Interferencias acústicas	Alejarse de zonas con eco
-📎 6. Observaciones Finales
+##📎 6. Observaciones Finales
 Este bastón puede ser modificado según las necesidades del usuario reprogramando el Arduino Nano. El proyecto es funcional y educativo, ideal para instituciones, estudiantes o desarrolladores de tecnología asistiva.
